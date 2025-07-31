@@ -1,0 +1,8 @@
+{
+  "name": "Agenda",
+  "description": "Um organizador pessoal, com foco em simplicidade e facilidade de uso. Apresenta uma interface limpa e moderna, gerenciamento de múltiplos calendários e opções de tema, tudo projetado para oferecer uma experiência de usuário intuitiva e agradável.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "prompt": ""
+}
