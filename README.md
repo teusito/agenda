@@ -1,6 +1,6 @@
 <div align="center">
   <img src="agenda.ico" alt="Logotipo do Agenda" width="64" height="64" />
-  <h1>Agenda — v1.0</h1>
+  <h1>Agenda</h1>
 </div>
 
 ---
