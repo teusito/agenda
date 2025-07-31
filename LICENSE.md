@@ -46,7 +46,7 @@ THE SOFTWARE.
 
 
 
-\Licenças de Tecnologias Utilizadas
+Licenças de Tecnologias Utilizadas
 
 
 
@@ -54,7 +54,7 @@ THE SOFTWARE.
 
 
 
-\React
+React
 
 
 
@@ -106,7 +106,7 @@ THE SOFTWARE.
 
 
 
-\Vite
+Vite
 
 
 
@@ -158,7 +158,7 @@ THE SOFTWARE.
 
 
 
-\Tailwind CSS
+Tailwind CSS
 
 
 
@@ -210,7 +210,7 @@ THE SOFTWARE.
 
 
 
-\TypeScript
+TypeScript
 
 
 
