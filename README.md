@@ -23,10 +23,9 @@ Este é um aplicativo de agenda pessoal desenvolvido com foco em simplicidade e 
 
 ## Requisitos
 
-Antes de executar o projeto, certifique-se de que os seguintes softwares estão instalados em sua máquina:
+Antes de executar o projeto, certifique-se de que o seguinte software está instalado em sua máquina:
 
 - [Node.js](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
 
 ---
 
