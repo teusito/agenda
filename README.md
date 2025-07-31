@@ -13,7 +13,7 @@ Este é um aplicativo de agenda pessoal desenvolvido com foco em simplicidade e 
 
 ## Tecnologias Utilizadas
 
-- React 19
+- React
 - TypeScript
 - Vite
 - Tailwind CSS
@@ -33,7 +33,7 @@ Antes de executar o projeto, certifique-se de que os seguintes softwares estão 
 ## Como executar o build
 
 ```bash
-npm install
+npm install vite
 npm run build
 npm run preview
 ```
